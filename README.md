@@ -28,10 +28,9 @@ SQL-Daily-Practice/
 ├── Day-05/
 └── ... 
 ```
-🎯 Goal
+## 🚀 Learning Journey
 
-To improve my SQL skills, query-writing ability, and problem-solving skills through consistent daily practice.
-
+This repository is updated regularly with new SQL queries and practice problems as I progress in my SQL learning journey.
 ## 🛠️ Tools Used
 
 - MySQL
